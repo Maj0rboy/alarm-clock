@@ -1,2 +1,2 @@
 # alarm-clock
-alarm clock with python
+alarm clock with python.
