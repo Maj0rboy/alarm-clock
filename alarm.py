@@ -4,7 +4,7 @@ import time
 import winsound
 root = Tk()
 root.title("Alarm clock")
-root.geometry("400x200")
+root.geometry("400x400")
 
 def alarm(set_alarm_timer):
     while True:
