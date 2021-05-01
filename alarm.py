@@ -41,4 +41,4 @@ secTime = Entry(root, textvariable=sec, bg="pink",width=15).place(x=200, y=30)
 # submit button
 btn = Button(root, text="Set Alarm", fg="red",width=10,command=actual_time).place(x=110, y=170)
 
-mainloop()
+root.mainloop()
